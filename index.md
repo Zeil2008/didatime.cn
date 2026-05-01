@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "光景不待人，须叟发成丝"
+  text: "Zeil@个人分享站"
+  tagline: 生活 读书 旅行 分享 
   image:
     src: /logo.png
     alt: logo

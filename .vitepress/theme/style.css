@@ -137,3 +137,15 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+
+/* 首页name字号调整 */
+.VPHero .name {
+  font-size: 44px !important; /* 使用 !important 确保覆盖默认样式 */
+}
+
+/* 适配移动端 */
+@media (max-width: 960px) {
+  .VPHero .name {
+    font-size: 32px !important;
+  }
+}
