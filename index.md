@@ -7,8 +7,8 @@ hero:
   text: "Zeil@个人分享站"
   tagline: 生活 读书 旅行 分享 
   image:
-    src: /logo.png
-    alt: logo
+    src: /photo.png
+    alt: photo
   actions:
     - theme: brand
       text: Markdown Examples
